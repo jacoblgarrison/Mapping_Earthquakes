@@ -4,11 +4,6 @@
 
 The purpose of this project is to create a map that displays earthquake data all across the world. We added layers to the map to show specific data regarding earthquakes such as: tectonic plate boundaries, earthquake markers sized by their magnitude, and we also color-coded the earthquakes. We gathered our GeoJSON data from USGS data. 
 
-## The Interactive Map
-
-Link:
-
-
 ## Each Map Stle
 
 Street Map Style:
